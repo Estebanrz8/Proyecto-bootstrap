@@ -1,0 +1,17 @@
+:root{
+    /*Colores*/
+    --color-rojo: #f03735;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Martian Mono', monospace;
+font-family: 'Roboto', sans-serif;
+}
+
+.icono{
+    font-size: 50px;
+    color: blue;
+}
+.parrafo{
+    color: var(--color-rojo);
+}
